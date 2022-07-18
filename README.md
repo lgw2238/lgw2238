@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **lgw2238/lgw2238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
