@@ -1,5 +1,5 @@
 ###  👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hello&fontSize=26)
+![header](https://capsule-render.vercel.app/api?type=wave&color=onedark&height=100&section=header&text=Hello&fontSize=26)
 <!--
 **lgw2238/lgw2238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
