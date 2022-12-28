@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
-..
+***
 ### blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lgw2236)](https://github.com/lgw2236/velog-readme-stats)
