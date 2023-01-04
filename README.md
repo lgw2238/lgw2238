@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ***
 ### blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=lgw2236)](https://velog.io/@lgw2236) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github)](https://velog.io/@lgw2236) 
+
 
 
