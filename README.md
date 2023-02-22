@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+***
+### portfolio
+<h2><a href="https://issue.up.railway.app/"></a>portfolio</h2>
 
 ***
 ### blog
