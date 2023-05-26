@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ***
 ### portfolio(https://issue.up.railway.app/)
 : private api interlock project
--> aws private domain(http://www.issue-me.site:8080/)
+-> aws domain(http://www.issue-me.site:8080/)
 
 ***
 ### blog
