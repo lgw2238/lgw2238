@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ![lgw2238's github stats](https://github-readme-stats.vercel.app/api?username=lgw2238&show_icons=true)[![lgw2238's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lgw2238&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lgw2238)
 ```kotlin
-
 data class Me (
     val name: String
     val dev: String
@@ -29,8 +28,8 @@ fun introduce() {
     val my = Me("gunwoo Lim", "BackEnd Developer", false)
    
         println("NAME: ${my.name}, DEV: ${my.dev}, Ismarried: ${my.ismarried}")
-    
-``` /**
+```   
+ /**
      *   my.name = gunwoo Lim
      *   my.dev = BackEnd Developer
      *   my.ismarried = false
@@ -38,12 +37,13 @@ fun introduce() {
 ```
 }
 ```
-***
+
 
 ### My Tech Stacks
-![Kotlin](https://img.shields.io/badge/Kotlin-5.0.0-brightgreen)
-![Git](https://img.shields.io/badge/Git-2.33.0-blue)
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=React&logoColor=white"> 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
