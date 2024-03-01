@@ -37,13 +37,14 @@ fun introduce() {
      *   my.ismarried = false
      */
 ----------------------------------------------------
+
 }
 ```
 
 ------------------------------------------------------------------------------------
-### My Tech Stacks
+## My Tech Stacks
 
-*Stack*
+>###*Stack*
 </br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +53,9 @@ fun introduce() {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 </br>
-*Infra*
+</br>
+</br>
+>###*Infra*
 </br>
 ![Gerrit](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
@@ -63,28 +66,36 @@ fun introduce() {
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 </br>
-*DataBase*
+</br>
+</br>
+>###*DataBase*
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AuroraDB](https://img.shields.io/badge/AuroraDB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </br>
-*a communication tool*
+</br>
+</br>
+>###*a communication tool*
 </br>
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
-*test tool*
+</br>
+</br>
+>###*test tool*
 </br>
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Spock](https://img.shields.io/badge/Spock-7EA8E6?style=for-the-badge&logo=spock&logoColor=white)
+</br>
+</br>
 ***
-### portfolio(https://issue.up.railway.app/)
+## portfolio(https://issue.up.railway.app/)
 : private api interlock project
 -> aws domain(http://www.issue-me.site:8080/)
 
 ***
-### blog
+## blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lgw2236)](https://velog-readme-stats.vercel.app/api/redirect?name=lgw2236)
 
