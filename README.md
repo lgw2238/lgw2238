@@ -27,14 +27,14 @@ data class Me (
 fun introduce() {
     val my = Me("gunwoo Lim", "BackEnd Developer", false)
    
-    println(introduce)
-
-
-/**
- *   my.name = gunwoo Lim
- *   my.dev = BackEnd Developer
- *   my.ismarried = false
- */
+        println("NAME: ${my.name}, DEV: ${my.dev}, Ismarried: ${my.ismarried}")
+    
+    /**
+     *   my.name = gunwoo Lim
+     *   my.dev = BackEnd Developer
+     *   my.ismarried = false
+     */
+}
 ```
 ***
 
