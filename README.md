@@ -17,7 +17,25 @@ Here are some ideas to get you started:
 
 
 ![lgw2238's github stats](https://github-readme-stats.vercel.app/api?username=lgw2238&show_icons=true)[![lgw2238's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lgw2238&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lgw2238)
+```kotlin
+data class Me (
+    val name: String
+    val dev: String
+    val ismarried: Boolean
+)
 
+fun introduce() {
+    val my = Me("gunwoo Lim", "BackEnd Developer", false)
+   
+    println(introduce)
+
+
+/**
+ *   my.name = gunwoo Lim
+ *   my.dev = BackEnd Developer
+ *   my.ismarried = false
+ */
+```
 ***
 
 ### My Tech Stacks
