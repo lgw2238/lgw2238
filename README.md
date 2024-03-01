@@ -44,7 +44,8 @@ fun 紹介する() {
 </br>
 *Infra*
 </br>
-![Gerrit](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gerrit](https://img.shields.io/badge/Gerrit-5E8B7E?style=for-the-badge&logo=Gerrit&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 </br>
