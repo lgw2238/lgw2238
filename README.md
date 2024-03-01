@@ -44,7 +44,7 @@ fun introduce() {
 ------------------------------------------------------------------------------------
 ## My Tech Stacks
 
-###*Stack*
+*Stack*
 </br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,7 +55,7 @@ fun introduce() {
 </br>
 </br>
 </br>
-###*Infra*
+*Infra*
 </br>
 ![Gerrit](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
@@ -68,7 +68,7 @@ fun introduce() {
 </br>
 </br>
 </br>
-###*DataBase*
+*DataBase*
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AuroraDB](https://img.shields.io/badge/AuroraDB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -76,14 +76,14 @@ fun introduce() {
 </br>
 </br>
 </br>
-###*a communication tool*
+*a communication tool*
 </br>
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
 </br>
 </br>
-###*test tool*
+*test tool*
 </br>
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Spock](https://img.shields.io/badge/Spock-7EA8E6?style=for-the-badge&logo=spock&logoColor=white)
@@ -97,6 +97,7 @@ fun introduce() {
 ***
 ## blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236) 
+</br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lgw2236)](https://velog-readme-stats.vercel.app/api/redirect?name=lgw2236)
 
 
