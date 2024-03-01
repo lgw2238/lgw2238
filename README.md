@@ -28,13 +28,15 @@ fun introduce() {
     val my = Me("gunwoo Lim", "BackEnd Developer", false)
    
         println("NAME: ${my.name}, DEV: ${my.dev}, Ismarried: ${my.ismarried}")
-```   
+
+
+----------------------------------------------------
  /**
      *   my.name = gunwoo Lim
      *   my.dev = BackEnd Developer
      *   my.ismarried = false
      */
-```
+----------------------------------------------------
 }
 ```
 
@@ -42,12 +44,14 @@ fun introduce() {
 ### My Tech Stacks
 
 *Stack*
+</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 </br>
 *Infra*
+</br>
 ![Gerrit](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -56,9 +60,11 @@ fun introduce() {
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 </br>
 *DataBase*
+</br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AuroraDB](https://img.shields.io/badge/AuroraDB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 *a communication tool*
+</br>
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
