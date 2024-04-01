@@ -7,20 +7,20 @@
 data class Me (
     val name: String
     val dev: String
-    val ismarried: Boolean
+    val isMarried: Boolean
 )
 
 fun 紹介する() {
     val my = Me("gunwoo Lim", "BackEnd Developer", false)
    
-        println("${my.name},${my.dev},${my.ismarried}")
+        println("${my.name},${my.dev},${my.isMarried}")
 
 
 ----------------------------------------------------
     /**
      *   my.name = gunwoo Lim
      *   my.dev = BackEnd Developer
-     *   my.ismarried = false
+     *   my.isMarried = false
      */
 ----------------------------------------------------
 
