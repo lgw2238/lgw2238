@@ -86,11 +86,9 @@ fun 紹介する() {
 ![Spock](https://img.shields.io/badge/Spock-7EA8E6?style=for-the-badge&logo=spock&logoColor=white)
 </br>
 </br>
-***
-<br/>
-***
+
 ## blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgw2236)](https://velog.io/@lgw2236)
 </br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lgw2236)](https://velog-readme-stats.vercel.app/api/redirect?name=lgw2236)
 
