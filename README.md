@@ -87,8 +87,6 @@ fun 紹介する() {
 </br>
 </br>
 ***
-## portfolio(https://issue.up.railway.app/) : private api interlock project
-<br/>changed -> aws domain(http://www.issue-me.site:8080/) // : Reorganizing domain
 <br/>
 ***
 ## blog
