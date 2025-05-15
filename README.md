@@ -1,8 +1,28 @@
 ###  👋                                                                                                                   
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=100&section=header&text=Delightful_Developer&fontSize=26)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&reversal=false" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Hi,%20I`m Billy!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=20&animation=twinkling" />
+</p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="24" />
+  <img src="https://img.shields.io/badge/JavaScript-181825?style=for-the-badge&logo=javascript" alt="JavaScript" height="24" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" height="24" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" height="24" />  
+</p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="24" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" height="24" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue" height="24" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&reversal=true&section=footer" />
+</p>
 
 
-![lgw2238's github stats](https://github-readme-stats.vercel.app/api?username=lgw2238&show_icons=true)[![lgw2238's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lgw2238&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lgw2238)
+![lgw2238's github stats](https://github-readme-stats.vercel.app/api?username=lgw2238&show_icons=true)
+[![lgw2238's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lgw2238&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lgw2238)
 ```kotlin
 data class Me (
     val name: String
@@ -30,21 +50,6 @@ fun 紹介する() {
 ------------------------------------------------------------------------------------
 ## 💻 My Tech Stacks
 
-## **Stacks**
-　
-</br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-</br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-</br>
-</br>
 ## **Infra**
 　
 </br>
@@ -61,7 +66,6 @@ fun 紹介する() {
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 </br>
 </br>
-</br>
 ## **DataBase**
 　
 </br>
@@ -70,13 +74,11 @@ fun 紹介する() {
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </br>
 </br>
-</br>
 ## **a communication tool**
 　
 </br>
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-</br>
 </br>
 </br>
 ## **test tool**
