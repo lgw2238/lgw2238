@@ -1,9 +1,9 @@
-###  👋                                                                                                                   
+###  👋 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&reversal=false" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Hi,%20I`m Billy!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Hi%2C%20I%60m%20Billy!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=20&animation=twinkling" />
 </p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="24" />
